@@ -96,7 +96,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <Router>
+      <Router basename="/Shop">
         <div className="wrapper">
           <Header 
             orders={this.state.orders} 
