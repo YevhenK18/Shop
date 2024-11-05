@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../OneDrive/Документы/GitHub/Shop"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Shop"
+		},
+		{
+			"path": "../src"
+		}
+	],
+	"settings": {}
+}
