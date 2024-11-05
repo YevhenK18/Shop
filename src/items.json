@@ -1,0 +1,99 @@
+[
+    {
+      "index": 1,
+      "name": "Nike Air Max Sneakers",
+      "category": "Warm",
+      "description": "Comfortable sneakers for everyday wear.",
+      "price": 100,
+      "image": "nike.jpg"
+    },
+    {
+      "index": 2,
+      "name": "Timberland Boots",
+      "category": "Cold",
+      "description": "Classic boots for hiking and outdoor activities.",
+      "price": 120,
+      "image": "timber.webp"
+    },
+    {
+      "index": 3,
+      "name": "Giorgio Armani Oxfords",
+      "category": "Warm",
+      "description": "Elegant dress shoes for special occasions.",
+      "price": 150,
+      "image": "oxford.jpg"
+    },
+    {
+      "index": 4,
+      "name": "Adidas Sandals",
+      "category": "Warm",
+      "description": "Lightweight sandals for summer relaxation.",
+      "price": 50,
+      "image": "sandali.jpg"
+    },
+    {
+      "index": 5,
+      "name": "Puma Running Shoes",
+      "category": "Cold",
+      "description": "High-performance running shoes for athletes.",
+      "price": 110,
+      "image": "puma.webp"
+    },
+    {
+      "index": 6,
+      "name": "Crocs Classic Clogs",
+      "category": "Warm",
+      "description": "Comfortable and easy-to-wear clogs for casual outings.",
+      "price": 40,
+      "image": "crocs.jpg"
+    },
+    {
+      "index": 7,
+      "name": "Clarks Desert Boots",
+      "category": "Cold",
+      "description": "Stylish boots that combine comfort and durability.",
+      "price": 130,
+      "image": "clark.jpg"
+    },
+    {
+      "index": 8,
+      "name": "Vans Classic Slip-Ons",
+      "category": "Warm",
+      "description": "Timeless slip-on sneakers with a casual vibe.",
+      "price": 60,
+      "image": "vans.jpg"
+    },
+    {
+      "index": 9,
+      "name": "Reebok Classic Leather Sneakers",
+      "category": "Cold",
+      "description": "Iconic sneakers with a retro style and modern comfort.",
+      "price": 80,
+      "image": "reebok.jpg"
+    },
+    {
+      "index": 10,
+      "name": "Havaianas Flip-Flops",
+      "category": "Warm",
+      "description": "Stylish flip-flops perfect for beach days.",
+      "price": 25,
+      "image": "havaianas.jpg"
+    },
+    {
+      "index": 11,
+      "name": "Dr. Martens 1460 Boots",
+      "category": "Cold",
+      "description": "Classic leather boots with a rebellious spirit.",
+      "price": 150,
+      "image": "drmartens.jpg"
+    },
+    {
+      "index": 12,
+      "name": "New Balance Fresh Foam",
+      "category": "Cold",
+      "description": "Comfortable and cushioned running shoes for long distances.",
+      "price": 120,
+      "image": "newbalance.jpg"
+    }
+  ]
+  
